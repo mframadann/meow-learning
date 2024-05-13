@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bullet-white {
+    background: #fff !important;
+    opacity: 1 !important;
+  }
+}
